@@ -8,7 +8,6 @@ I'm a passionate Data Scientist currently working at Walmart Global Tech in Atla
   
 - **Bachelor of Technology in Computer Science**  
   Manipal Institute of Technology (2016 - 2020)  
-  *Minors in Intelligent Systems*
 
 ## 💼 Experience
 ### Data Scientist | Walmart Global Tech  
