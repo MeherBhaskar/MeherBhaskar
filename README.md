@@ -13,10 +13,10 @@ I'm a passionate Data Scientist currently working at Walmart Global Tech in Atla
 ### Data Scientist | Walmart Global Tech  
 *July 2023 - Present*  
 
-### Senior Data Scientist | Merkle  
+### Senior Data Scientist | Merkle, USA
 *May 2022 - July 2023*  
 
-### Data Scientist | Merkle  
+### Data Scientist | Merkle, India 
 *Jan 2020 - April 2022*  
 
 ## 🌍 About Me
