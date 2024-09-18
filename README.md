@@ -1,6 +1,6 @@
 # Hi there, I'm Meher Bhaskar Madiraju 👋
 
-I'm a passionate Data Scientist currently working at Walmart Global Tech in Atlanta, Georgia. I have a strong background in analytics and data science, specializing in transforming data into actionable insights to drive business strategies.
+I'm a passionate Data Scientist currently working at Walmart Global Tech in Bentonville, Arkansas. I have a strong background in analytics and data science, specializing in transforming data into actionable insights to drive business strategies.
 
 ## 🎓 Education
 - **Master of Science in Analytics**  
