@@ -22,6 +22,7 @@ I'm a passionate Data Scientist currently working at Walmart Global Tech in Bent
 - In my free time, I love exploring new technologies and staying updated on the latest trends in data science and analytics.
 
 ## 🌱 Current Interests
+- Agentic AI
 - Reinforcement Learning
 - Deep Learning techniques for Time Series Forecasting
 
