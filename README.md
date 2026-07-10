@@ -10,7 +10,7 @@ I'm a passionate Data Scientist currently working at Walmart Global Tech in Bent
   Manipal Institute of Technology (2016 - 2020)  
 
 ## 💼 Experience
-### Data Scientist | Walmart Global Tech  
+### Senior Data Scientist | Walmart Global Tech  
 *July 2023 - Present*  
 
 ### Senior Data Scientist | Merkle
